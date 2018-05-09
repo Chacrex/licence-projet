@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/asus/Documents/GitHub/MakeMyQuiz/New Unity Project/Assets/Scenes/QuestionBasicScene.unity
+  isLoaded: 1
+  isActive: 1
